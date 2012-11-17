@@ -20,15 +20,15 @@ Example for including files:
 Example for the HTML
 
 <pre>
-<!DOCTYPE HTML>
-<html lang="en-US">
-<head>
-	<meta charset="UTF-8">
-	<title></title>
-	<script type="text/javascript" src="output.js" data-src="entry-point.js"></script>
-</head>
-<body>
+&lt;!DOCTYPE HTML&gt;
+&lt;html lang="en-US"&gt;
+&lt;head&gt;
+	&lt;meta charset="UTF-8"&gt;
+	&lt;title&gt;&lt;/title&gt;
+	&lt;script type="text/javascript" src="output.js" data-src="entry-point.js"&gt;&lt;/script&gt;
+&lt;/head&gt;
+&lt;body&gt;
 	
-</body>
-</html>
+&lt;/body&gt;
+&lt;/html&gt;
 </pre>
