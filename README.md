@@ -9,14 +9,17 @@ In production mode, the output file will be concatenated with all contents of re
 
 
 Example for including files: 
-//=> Parent Utils Stack
-
-function () {
-	...
-}
+<pre>
+	//=> Parent Utils Stack
+	
+	function () {
+		...
+	}
+</pre>
 
 Example for the HTML
 
+<pre>
 <!DOCTYPE HTML>
 <html lang="en-US">
 <head>
@@ -28,3 +31,4 @@ Example for the HTML
 	
 </body>
 </html>
+</pre>
